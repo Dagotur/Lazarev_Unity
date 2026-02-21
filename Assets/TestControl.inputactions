@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "name": "TestControl",
+    "maps": [],
+    "controlSchemes": [
+        {
+            "name": "Player basic control",
+            "bindingGroup": "Player basic control",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
